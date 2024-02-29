@@ -1,4 +1,12 @@
 <h1> Projet-Spotify </h1>
+<center>
+<span style="color🟢; font-size:60px;">PROJET PYTHON
+</span>
+</center>
+
+
+
+
 
 The goal of this topic is to exploit data extracted from the Spotify streaming platform. The available data comes from Kaggle, and you can directly download it via the following links:
 
