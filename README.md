@@ -1,4 +1,4 @@
-<h1> Spotify Project </h1>
+<h1> Spotify Data analysis Project </h1>
 
 The goal of this topic is to exploit data extracted from the Spotify streaming platform. The available data comes from Kaggle, and you can directly download it via the following links:
 
