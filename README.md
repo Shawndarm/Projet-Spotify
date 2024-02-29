@@ -1,6 +1,8 @@
-# Projet-Spotify
+<h1> Projet-Spotify </h1>
 
-[artists](https://www.kaggle.com/datasets/rolanddutauziet/dataset-projet-spotify?select=artists.csv)
+The goal of this topic is to exploit data extracted from the Spotify streaming platform. The available data comes from Kaggle, and you can directly download it via the following links:
+
+[artists]    <button> (https://www.kaggle.com/datasets/rolanddutauziet/dataset-projet-spotify?select=artists.csv) </button>
 
 [top200global](https://www.kaggle.com/datasets/rolanddutauziet/dataset-projet-spotify?select=spotify_top200_global.csv)
 
