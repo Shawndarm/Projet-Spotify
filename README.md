@@ -1,16 +1,8 @@
-<h1> Projet-Spotify </h1>
-<center>
-<span style="color🟢; font-size:60px;">PROJET PYTHON
-</span>
-</center>
-
-
-
-
+<h1> Spotify Project </h1>
 
 The goal of this topic is to exploit data extracted from the Spotify streaming platform. The available data comes from Kaggle, and you can directly download it via the following links:
 
-[artists]    <button> (https://www.kaggle.com/datasets/rolanddutauziet/dataset-projet-spotify?select=artists.csv) </button>
+[artists](https://www.kaggle.com/datasets/rolanddutauziet/dataset-projet-spotify?select=artists.csv)
 
 [top200global](https://www.kaggle.com/datasets/rolanddutauziet/dataset-projet-spotify?select=spotify_top200_global.csv)
 
